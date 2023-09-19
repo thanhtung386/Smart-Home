@@ -13,3 +13,6 @@
 ## Yêu cầu phần mềm
 > [!NOTE]
 > Arduino IDE, MIT App Inverter
+
+## Mô hình tổng quan hệ thống
+[!pic_0] (./image/sdk.png)
