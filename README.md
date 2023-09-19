@@ -16,3 +16,6 @@
 
 ## Mô hình tổng quan hệ thống
 <img src="./image/sdk.png" alt="Alt text" title="Optional title">
+
+## Mô hình thực tế
+<img src="./image/thuc_te.png" alt="Alt text" title="Ảnh thực tế">
