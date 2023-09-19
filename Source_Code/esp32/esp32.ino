@@ -1,5 +1,3 @@
-//#include <dummy.h>
-
 #define fan_pin1 13
 #define fan_pin2 12
 #define control_speed 27
