@@ -15,4 +15,4 @@
 > Arduino IDE, MIT App Inverter
 
 ## Mô hình tổng quan hệ thống
-[!pic_0] (./image/sdk.png)
+<img src="./image/sdk.png" alt="Alt text" title="Optional title">
